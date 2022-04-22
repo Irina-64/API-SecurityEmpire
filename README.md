@@ -1,4 +1,5 @@
-## Шпаргалка (https://github.com/cyprosecurity/API-SecurityEmpire) по сбору информации, атаке и методам защиты API
+## Шпаргалка по сбору информации, атаке и методам защиты API
+(https://github.com/cyprosecurity/API-SecurityEmpire) 
 
 # 🛡️ API Security Empire 
 <div align="center">
